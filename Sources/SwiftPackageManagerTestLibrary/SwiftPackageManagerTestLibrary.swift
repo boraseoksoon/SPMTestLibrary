@@ -1,4 +1,4 @@
-struct SwiftPackageManagerTestLibrary {
+public struct SwiftPackageManagerTestLibrary {
     var text = "Hello, World!"
     
     func test() {
