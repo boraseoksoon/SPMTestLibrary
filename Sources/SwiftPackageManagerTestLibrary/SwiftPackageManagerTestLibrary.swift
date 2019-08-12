@@ -2,9 +2,9 @@ public struct SwiftPackageManagerTestLibrary {
     public init() {
         print("public init!")
     }
-    var text = "Hello, World!"
+    public var text = "Hello, World!"
     
-    func test() {
+    public func test() {
         print("SPM test!!")
     }
 }
